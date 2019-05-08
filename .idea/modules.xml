@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/full-page-screenshot.iml" filepath="$PROJECT_DIR$/full-page-screenshot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/full-page-screenshot-backend/full-page-screenshot-backend.iml" filepath="$PROJECT_DIR$/full-page-screenshot-backend/full-page-screenshot-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/full-page-screenshot-ui/full-page-screenshot-ui.iml" filepath="$PROJECT_DIR$/full-page-screenshot-ui/full-page-screenshot-ui.iml" />
+    </modules>
+  </component>
+</project>
